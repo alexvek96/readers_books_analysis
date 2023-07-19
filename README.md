@@ -1,5 +1,5 @@
 # readers_books_analysis
-Data Mining course focused in extracting data and information between readers and book titles. Initially, data are pre-processed as described in the code comments. Implementation of recommendation and classification system.
+Data Mining course 2nd/2 Assignment focused in extracting data and information between readers and book titles. Initially, data are pre-processed as described in the code comments. Implementation of recommendation and classification system.
 
 ## files
 1) books_1.Best_Books_Ever.csv contains books data to be processed (you can download it here https://zenodo.org/record/4265096#.Y-N2DnbP1jE)
